@@ -1,0 +1,1 @@
+{"name":"distributed-solar-sampling","version":"0.1.0","private":true,"type":"module","scripts":{"test":"node --test","start":"node src/server.js"},"engines":{"node":">=20"},"description":"户用光伏抽检统筹服务"}
